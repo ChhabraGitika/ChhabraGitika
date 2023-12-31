@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there! I am Gitika Chhabra 👋
+
+I have over three years of experience in Data Science and Analytics, and I am seeking opportunities to collaborate with experts on open-source or freelance projects.
+
+### You can reach me at - 
+* Linkedin - https://www.linkedin.com/in/gitika-chhabra/
+* E-mail - gitika18097@iiitd.ac.in
+
+### Technical Skills - 
+
+### Current projects working on - 
+
 
 <!--
 **ChhabraGitika/ChhabraGitika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
