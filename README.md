@@ -8,7 +8,8 @@ I have over three years of experience in Data Science and Analytics, and I am se
 
 ### Technical Skills - 
 
-### Current projects working on - 
+### Current working on - 
+* Deep Learning and AI
 
 
 <!--
