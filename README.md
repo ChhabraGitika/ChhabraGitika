@@ -17,6 +17,7 @@ I have over three years of experience in Data Science and Analytics, and I am se
 
 ## Current working on - 
 * Deep Learning and AI
+* Time Series Analysis and Modeling - 
 
 
 <!--
