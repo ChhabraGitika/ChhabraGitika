@@ -15,9 +15,14 @@ I have over three years of experience in Data Science and Analytics, and I am se
 * ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
-## Current working on - 
+## Current reading on - 
 * Deep Learning and AI
-* Time Series Analysis and Modeling - 
+* Computer Vision/ Image Processing
+* Time Series Analysis and Modeling
+
+## Projects - 
+* 
+ 
 
 
 <!--
