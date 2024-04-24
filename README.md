@@ -23,7 +23,7 @@ I have over three years of experience in Data Science and Analytics, and I am se
 * How do you create API for ML model and share it across teams
 
 ## Projects - 
-* NLP - Spooky Author Identification (![Kaggle link](https://www.kaggle.com/c/spooky-author-identification))
+* NLP - Spooky Author Identification ([Kaggle link](https://www.kaggle.com/c/spooky-author-identification))
  
 
 
