@@ -2,6 +2,7 @@
 
 With 3+ years of experience in Data Science and Analytics. I have worked in different domains, including deep learning, computer vision, NLP, and numerical data.
 I am seeking opportunities to collaborate with experts on open-source or freelance projects.
+Linkedin Top Voice in Data Science
 
 ## You can reach me at - 
 * [![Gmail Badge](https://img.shields.io/badge/-gitika18097@iiitd.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gitika18097@iiitd.ac.in)](mailto:gitika18097@iiitd.ac.in)
