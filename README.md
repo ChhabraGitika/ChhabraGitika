@@ -22,17 +22,13 @@ I am seeking opportunities to collaborate with experts on open-source or freelan
 * ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 * ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## Current reading on - 
+## Projects - 
 * Deep Learning and AI
 * Computer Vision/ Image Processing -
   - Detection and location of unsafe behavior in digital images[Github repo]
 * Time Series Analysis and Modeling
 * NLP
 * How do you create API for ML model and share it across teams
-
-## Projects - 
-* NLP - Spooky Author Identification ([Kaggle link](https://www.kaggle.com/c/spooky-author-identification))
- 
 
 
 <!--
