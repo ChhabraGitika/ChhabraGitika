@@ -21,14 +21,16 @@ I am seeking opportunities to collaborate with experts on open-source or freelan
 * ![Keras]()
 * ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 * ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+* ![Rest API]()
 
 ## Projects - 
-* Deep Learning and AI
+* Gen AI and LLM
+* Deep Learning
 * Computer Vision/ Image Processing -
   - Detection and location of unsafe behavior in digital images[Github repo]
+  - Content Moderation[Github repo]
 * Time Series Analysis and Modeling
 * NLP
-* How do you create API for ML model and share it across teams
 
 
 <!--
