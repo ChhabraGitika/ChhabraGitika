@@ -8,6 +8,7 @@ I am seeking opportunities to collaborate with experts on open-source or freelan
 * [![Gmail Badge](https://img.shields.io/badge/-gitika18097@iiitd.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gitika18097@iiitd.ac.in)](mailto:gitika18097@iiitd.ac.in)
 * [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitika-chhabra/)](https://www.linkedin.com/in/gitika-chhabra/)
 * [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gitika.chhabra)
+* [![Kaggle](https://www.kaggle.com/gitikachhabra)
 
 ## ⚡ Technologies
 * ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
