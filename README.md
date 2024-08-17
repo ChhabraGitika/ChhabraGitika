@@ -20,6 +20,10 @@
 - Debugged and optimized the IPv4 and IPv6 routing procedure, reducing IP collision between addresses by 20% in C and C++.
 - Implemented the drivers and ethernet features from Qualcomm router chips in - C, and C++.
 
+**Teaching Assistant @ IIIT - Delhi (_July 2018 - December 2019_)**
+- Worked closely with senior faculty, freelancers, and global industry leaders in Compiler, DSA and Data Science.
+- Audited assignments and prepared lecture plans/notes for the students. 
+
 ## Projects
 
 ## You can reach me at - 
