@@ -1,3 +1,7 @@
+<header>
+  <img src="Blue and Yellow Modern Artisan Parties and Celebrations X-Frame Banner.png" alt="Banner">
+</header>
+
 # Data Scientist - LinkedIn Top Voice in Data Science
 
 #### Technical Skills: Python, SQL, AWS Sagemaker, AWS Lambda, Hadoop, R, C/C++, Tableau, PySpark, GitHub
