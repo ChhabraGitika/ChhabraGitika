@@ -9,7 +9,7 @@
 #### Skills: Data Science, Machine Learning, Deep Learning, Statistics, CNNs, LSTMs, Computer Vision, NLP
 
 ## Education
-- Masters in Computer Science, Data Engineering | IIIT-Delhi							       		
+- M.Tech, Data Engineering | IIIT-Delhi							       		
 - B.Tech Computer Science | MSIT, GGSIPU 			        		
 
 ## Work Experience
