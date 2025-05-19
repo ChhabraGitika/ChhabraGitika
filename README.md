@@ -18,14 +18,14 @@
 - Built a Time-Series Forecasting model for Anomaly detection to work on the Store Visitation Summary using XGBoost+ARIMA and LSTM.
 - Developed data pipelines and architectures for ETL data from various sources.
 - Experience with collaborative development workflows, including version control (using GitHub), code reviews, DevOps practices (such as automated testing), and CI/CD. 
-- Led a few projects for predictive modeling and regression and optimized the Data Models pipeline by 8%, resulting in an improved targeting mechanism using Decision trees and Random Forests.
+- Led a few projects for predictive modeling and regression, and optimized the Data Models pipeline by 8%, resulting in an improved targeting mechanism using Decision trees and Random Forests.
 
 **Software Engineer @ Qualcomm Pvt. Ltd. (_January 2020 - October 2020_)**
 - Debugged and optimized the IPv4 and IPv6 routing procedure, reducing IP collision between addresses by 20% in C and C++.
-- Implemented the drivers and ethernet features from Qualcomm router chips in - C, and C++.
+- Implemented the drivers and Ethernet features from Qualcomm router chips in C and C++.
 
 **Teaching Assistant @ IIIT - Delhi (_July 2018 - December 2019_)**
-- Worked closely with senior faculty, freelancers, and global industry leaders in Compiler, DSA and Data Science.
+- Worked closely with senior faculty, freelancers, and global industry leaders in Compiler, DSA, and Data Science.
 - Audited assignments and prepared lecture plans/notes for the students. 
 
 ## Projects
